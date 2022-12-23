@@ -9,7 +9,7 @@
 <div align="center">
   <h3>
     <span> | </span>
-    <a href="https://balbir-25.github.io/404-Error.github.io/">
+    <a href="https://balbir-25.github.io/404-error">
       Solution
     </a>
     <span> | </span>
