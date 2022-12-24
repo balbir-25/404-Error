@@ -8,8 +8,11 @@
 
 <div align="center">
   <h3>
+  <a href="https://balbir-25.github.io/404-error">
+      Demo
+    </a>
     <span> | </span>
-    <a href="https://balbir-25.github.io/404-error">
+    <a href="https://github.com/balbir-25/404-error">
       Solution
     </a>
     <span> | </span>
